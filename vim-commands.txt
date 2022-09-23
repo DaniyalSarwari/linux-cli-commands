@@ -1,0 +1,11 @@
+---------vi-shortcuts-------
+:wq  =  :x
+:w
+/[search word]
+:q!
+i -> insert mode
+o -> insert mode at the end of new line
+esc -> exit insert mode
+dd -> delete line
+1yy -> copy 1 line of data [used in read mode , 2yy stand for read 2 line of data]
+---------------------------
